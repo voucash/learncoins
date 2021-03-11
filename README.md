@@ -11,7 +11,7 @@
 <p float="left" align="center">
 <img src="./images/1.jpg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2.jpg" width="40%">
 </p>
-这里建议购买泰达币（USDT），为什么不购买大名鼎鼎的比特币（BTC），因为直接购买BTC价格偏高，而USDT恒等于1美元可以随时用来交易BTC（价格更低）和其他任意加密货币。
+这里建议购买泰达币（USDT），为什么不购买大名鼎鼎的比特币（BTC），因为直接购买BTC价格偏高，而USDT恒等于1美元可以随时用来交易BTC（价格更低）和其他任意加密货币。需简单实名，如果提示已失效，可以多提交几次。
 <p float="left">
 <img src="./images/3.jpg" width="40%">
 </p>
