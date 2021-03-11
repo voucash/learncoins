@@ -6,7 +6,7 @@
 
 在了解加密货币之前，首先要拥有加密货币。否则说再多都不能切实体会。
 
-途径：一般建议新手从交易所购买加密货币，这里以火币（三大中文交易所之一） [安卓点击直接下载app](https://github.com/freepayment/learcoins/raw/master/bin/huobi.apk) 为例。安装后完成注册，会显示注册成功，立即买币。
+一般建议新手从交易所购买加密货币，这里以火币（三大中文交易所之一） [安卓点击直接下载app](https://github.com/freepayment/learcoins/raw/master/bin/huobi.apk) 为例。安装后完成注册，会显示注册成功，立即买币。
 
 <p float="left" align="center">
 <img src="./images/1.jpg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2.jpg" width="40%">
