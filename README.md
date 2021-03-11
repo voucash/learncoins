@@ -22,8 +22,8 @@
 ### 加密货币支付
 在资产里，选择提币，搜索USDT。输入收款地址
 
-<img src="./images/4.jpg" width="50%">
-
-<img src="./images/5.jpg" width="50%">
+<p float="left" align="center">
+    <img src="./images/4.jpg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/4.jpg" width="40%">
+</p>
 
 
